@@ -30,7 +30,7 @@ Apartment_ID: Unique identifier for each apartment listing
    * Summary Statistics for Categorical Features
 4. Numerical feature analysis
    * Plotting numerical column distributions
-   * Plotting Boxplots to further understand the distribution and outlier detection
+   * Plotting Boxplots to understand the distribution and outlier detection further
    * Removing Outliers
    * Bivariate analysis for Numerical Columns
 5. Categorical Feature Analysis
