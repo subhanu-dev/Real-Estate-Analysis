@@ -1,4 +1,4 @@
-# EDA and Insight Analysis Report for Real-TIme analysis
+# EDA and Insight Analysis Report for Real-Time analysis
 
 ## Introduction
 This study aims to analyze the rental landscape in Colombo by leveraging a comprehensive dataset of apartment listings from various neighborhoods. 
