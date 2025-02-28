@@ -1,9 +1,10 @@
-# EDA and Insight Analysis Report for Colombo Real-Estate analysis
+# EDA and Insight Analysis for Apartments in Colombo 🏢
 
 ## Introduction
 This study aims to analyze the rental landscape in Colombo by leveraging a comprehensive dataset of apartment listings from various neighborhoods. 
 The data set comprises various apartments from different neighborhoods across Colombo. This report will explore how rental prices vary across neighborhoods, identify the most influential property attributes, and provide data-driven recommendations for stakeholders in the real estate industry
 
+Read the full report at 🔗: [EDA and Insight Analysis Report](https://github.com/subhanu-dev/Real-Estate-Analysis/blob/main/EDA_Report.pdf)
 ## Dataset Overview
 
 Apartment_ID: Unique identifier for each apartment listing 
